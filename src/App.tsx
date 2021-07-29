@@ -1,8 +1,9 @@
 import React from 'react';
+import { SignIn } from './pages/SignIn';
 
 function App() {
   return (
-    <h1>Home</h1>
+    <SignIn />
   );
 }
 
